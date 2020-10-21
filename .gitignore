@@ -1,3 +1,41 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@arjungandhi 
+swol-kat
+/
+simulation
+1
+1
+0
+Code
+Issues
+8
+Pull requests
+Actions
+Projects
+1
+Wiki
+Security
+2
+Insights
+Settings
+simulation/.gitignore
+@RobethX
+RobethX First commit of project files
+Latest commit 8549895 26 days ago
+ History
+ 1 contributor
+We found potential security vulnerabilities in your dependencies.
+You can see this message because you have been granted access to Dependabot alerts for this repository.
+
+132 lines (107 sloc)  1.78 KB
+ 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +165,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# MuJoCo
+MUJOCO_LOG.TXT
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
