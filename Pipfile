@@ -7,9 +7,15 @@ verify_ssl = true
 jupyter = "*"
 sphinx = "*"
 pylint = "*"
+jupyterthemes = "*"
 
 [packages]
 numpy = "*"
+jupyter = "*"
+scipy = "*"
+sympy = "*"
+matplotlib = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.8"
